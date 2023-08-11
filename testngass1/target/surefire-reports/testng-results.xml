@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-11T12:04:55 UTC" name="Surefire suite" finished-at="2023-08-11T12:04:55 UTC" duration-ms="96">
+  <suite started-at="2023-08-11T12:07:33 UTC" name="Surefire suite" finished-at="2023-08-11T12:07:33 UTC" duration-ms="117">
     <groups>
     </groups>
-    <test started-at="2023-08-11T12:04:55 UTC" name="Surefire test" finished-at="2023-08-11T12:04:55 UTC" duration-ms="96">
+    <test started-at="2023-08-11T12:07:33 UTC" name="Surefire test" finished-at="2023-08-11T12:07:33 UTC" duration-ms="117">
       <class name="com.example.AppTest">
-        <test-method signature="testSelenium()[pri:0, instance:com.example.AppTest@262b2c86]" started-at="2023-08-11T12:04:55 UTC" name="testSelenium" finished-at="2023-08-11T12:04:55 UTC" duration-ms="52" status="FAIL">
+        <test-method signature="testSelenium()[pri:0, instance:com.example.AppTest@262b2c86]" started-at="2023-08-11T12:07:33 UTC" name="testSelenium" finished-at="2023-08-11T12:07:33 UTC" duration-ms="59" status="FAIL">
           <exception class="java.lang.IllegalStateException">
             <message>
               <![CDATA[The driver executable does not exist: /home/coder/project/workspace/testngass1/C:\Testing\chromedriver.exe]]>
